@@ -1,3 +1,4 @@
+//Nama: Johannes Indra Cristian pandiangan (241401001)
 //Tugas implementasi stack dengan linked list, 
 //lalu push 3 angka dan pop 1 angka
 #include <iostream>
@@ -62,4 +63,5 @@ int main() {
     display(); //menampilkan 2 angka, karna 1 udah dihapus
     return 0;
 }
+
 
