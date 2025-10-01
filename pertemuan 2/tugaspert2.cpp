@@ -54,11 +54,12 @@ int main() {
     push(20);
     push(30);
 
-    display();
+    display(); //menampilkan 3 angka yg di psuh
 
     //Pop 1 angka
     pop();
 
-    display();
+    display(); //menampilkan 2 angka, karna 1 udah dihapus
     return 0;
 }
+
